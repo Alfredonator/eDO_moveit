@@ -1,0 +1,12 @@
+controller_list:
+  - name: fake_edo_controller
+    joints:
+      - edo_joint_1
+      - edo_joint_2
+      - edo_joint_3
+      - edo_joint_4
+      - edo_joint_5
+      - edo_joint_6
+  - name: fake_eef_group_controller
+    joints:
+      []
